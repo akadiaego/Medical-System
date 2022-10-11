@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.hospital.ray</groupId>
     <artifactId>yygh_parent</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>pom</version>
     <name>yygh_parent</name>
     <description>Demo project for Spring Boot</description>
     <properties>
