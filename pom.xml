@@ -19,7 +19,7 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.atguigu.yygh</groupId>
+    <groupId>com.ray.yygh</groupId>
     <artifactId>yygh-parent</artifactId>
     <version>1.0</version>
     <packaging>pom</packaging>
