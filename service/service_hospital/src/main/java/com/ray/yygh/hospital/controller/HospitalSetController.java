@@ -2,6 +2,7 @@ package com.ray.yygh.hospital.controller;
 
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
+import com.ray.yygh.common.exception.YyghException;
 import com.ray.yygh.common.utils.MD5;
 import com.ray.yygh.hospital.service.HospitalSetService;
 import com.ray.yygh.model.hospital.HospitalSet;
